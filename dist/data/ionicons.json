@@ -1,4 +1,23 @@
 {
+  "accessible": {
+    "tags": [
+      "accessible"
+    ],
+    "icons": [
+      {
+        "code": "0xf350",
+        "name": "ios-accessible"
+      },
+      {
+        "code": "0xf350",
+        "name": "ios-accessible-outline"
+      },
+      {
+        "code": "0xf351",
+        "name": "md-accessible"
+      }
+    ]
+  },
   "add": {
     "tags": [
       "add",

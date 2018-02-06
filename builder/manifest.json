@@ -1,11 +1,11 @@
 {
-  "build_hash": "7a7162860d3e777f0287c8c352f88606",
+  "build_hash": "dbb079166c9b718d66357d67eef875c1",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
     {
       "code": "0xf350",
-      "name": "accessible"
+      "name": "ios-accessible"
     },
     {
       "code": "0xf102",
@@ -2242,6 +2242,10 @@
     {
       "code": "0xf34f",
       "name": "logo-youtube"
+    },
+    {
+      "code": "0xf351",
+      "name": "md-accessible"
     },
     {
       "code": "0xf273",

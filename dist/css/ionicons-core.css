@@ -10,7 +10,9 @@
   used under CC BY http://creativecommons.org/licenses/by/4.0/
   Modified icons to fit ionicon’s grid from original.
 */
-.ion-accessible:before { content: "\f350"; }
+.ion-ios-accessible:before { content: "\f350"; }
+
+.ion-ios-accessible-outline:before { content: "\f350"; }
 
 .ion-ios-add:before { content: "\f102"; }
 
@@ -1279,6 +1281,8 @@
 .ion-logo-yen:before { content: "\f34e"; }
 
 .ion-logo-youtube:before { content: "\f34f"; }
+
+.ion-md-accessible:before { content: "\f351"; }
 
 .ion-md-add:before { content: "\f273"; }
 
