@@ -1,23 +1,4 @@
 {
-  "accessible": {
-    "tags": [
-      "accessible"
-    ],
-    "icons": [
-      {
-        "code": "0xf350",
-        "name": "ios-accessible"
-      },
-      {
-        "code": "0xf350",
-        "name": "ios-accessible-outline"
-      },
-      {
-        "code": "0xf351",
-        "name": "md-accessible"
-      }
-    ]
-  },
   "add": {
     "tags": [
       "add",
@@ -6734,6 +6715,25 @@
       {
         "code": "0xf2c5",
         "name": "logo-whatsapp"
+      }
+    ]
+  },
+  "wheelchair": {
+    "tags": [
+      "wheelchair"
+    ],
+    "icons": [
+      {
+        "code": "0xf351",
+        "name": "ios-wheelchair"
+      },
+      {
+        "code": "0xf351",
+        "name": "ios-wheelchair-outline"
+      },
+      {
+        "code": "0xf350",
+        "name": "md-wheelchair"
       }
     ]
   },

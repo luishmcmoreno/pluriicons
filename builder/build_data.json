@@ -1,16 +1,8 @@
 {
-  "build_hash": "7a7162860d3e777f0287c8c352f88606",
+  "build_hash": "888357a0856d89b01c9c8c222a5f7f4d",
   "prefix": "ion-",
   "name": "Ionicons",
   "icons": [
-    {
-      "code": "0xf350",
-      "name": "ios-accessible"
-    },
-    {
-      "code": "0xf350",
-      "name": "ios-accessible-outline"
-    },
     {
       "code": "0xf102",
       "name": "ios-add"
@@ -2332,6 +2324,14 @@
       "name": "ios-water-outline"
     },
     {
+      "code": "0xf351",
+      "name": "ios-wheelchair"
+    },
+    {
+      "code": "0xf351",
+      "name": "ios-wheelchair-outline"
+    },
+    {
       "code": "0xf26d",
       "name": "ios-wifi"
     },
@@ -2546,10 +2546,6 @@
     {
       "code": "0xf34f",
       "name": "logo-youtube"
-    },
-    {
-      "code": "0xf351",
-      "name": "md-accessible"
     },
     {
       "code": "0xf273",
@@ -3738,6 +3734,10 @@
     {
       "code": "0xf3a7",
       "name": "md-water"
+    },
+    {
+      "code": "0xf350",
+      "name": "md-wheelchair"
     },
     {
       "code": "0xf3a8",
